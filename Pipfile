@@ -9,6 +9,7 @@ uvicorn = "*"
 databases = "*"
 sqlalchemy = "*"
 wheel = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
